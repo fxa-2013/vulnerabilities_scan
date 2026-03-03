@@ -268,7 +268,7 @@
 - `/api/permissions` - 权限管理
 
 ### 13. 日志中心 (log-center.html)
-<img width="1913" height="911" alt="image" src="https://github.com/user-attachments/assets/cbafb668-e90b-48e2-b00b-37f6dc4c3623" />
+<img width="1433" height="877" alt="image" src="https://github.com/user-attachments/assets/25e1f25a-374b-4ecc-ac61-79a5db470601" />
 
 **核心功能**：系统日志管理和分析
 
@@ -284,10 +284,9 @@
 - `/api/logs/export` - 导出日志
 
 ### 14. 基本设置 (basic-settings.html)
-<img width="1907" height="910" alt="image" src="https://github.com/user-attachments/assets/9b005616-b4bb-4247-b9d7-05f3f75440df" />
+<img width="1280" height="783" alt="image" src="https://github.com/user-attachments/assets/9163628c-3fb6-43e1-9a39-fa5e9025c512" />
 
 **核心功能**：系统基本配置
-<img width="1919" height="904" alt="image" src="https://github.com/user-attachments/assets/aa1f5550-6438-4eb5-8d01-9052db47c98b" />
 
 **实现方式**：
 - 系统参数配置
@@ -301,7 +300,7 @@
 - `/api/settings/security` - 安全设置
 
 ### 15. 规则更新 (rule-update.html)
-<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/e41e5eba-f32f-4b7f-862b-d15c6e6d2643" />
+<img width="1423" height="902" alt="image" src="https://github.com/user-attachments/assets/9d9720bb-05ee-4662-9ba3-b60fe317bcd7" />
 
 **核心功能**：安全规则更新和管理
 
@@ -319,7 +318,7 @@
 ### 16. 数据库管理
 
 #### 弱密码数据库 (weak-password-db.html)
-<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/24bc74d5-d8d2-4524-bdb9-ccdbed0ebfe3" />
+<img width="1335" height="704" alt="image" src="https://github.com/user-attachments/assets/9a021aea-6cdf-4751-84b9-2abda7960449" />
 
 **核心功能**：弱密码字典管理
 
@@ -335,7 +334,7 @@
 - `/api/weak-password/db/export` - 导出弱密码字典
 
 #### 操作系统指纹数据库 (os-fingerprint-db.html)
-<img width="1908" height="912" alt="image" src="https://github.com/user-attachments/assets/2ec6edd5-20e8-4c3e-af4a-b90fd4b20b98" />
+<img width="1310" height="755" alt="image" src="https://github.com/user-attachments/assets/d2677c82-3c55-44ae-841a-c236cce4805b" />
 
 **核心功能**：操作系统指纹规则管理
 
@@ -351,7 +350,7 @@
 - `/api/os-fingerprints/export` - 导出指纹规则
 
 #### 服务指纹数据库 (service-fingerprint-db.html)
-<img width="1903" height="911" alt="image" src="https://github.com/user-attachments/assets/5bcedf64-20e5-4c99-bb00-c8639395e01d" />
+<img width="1317" height="735" alt="image" src="https://github.com/user-attachments/assets/9bfa27d8-3337-49a5-bdbe-01089b902565" />
 
 **核心功能**：服务指纹规则管理
 
@@ -369,7 +368,7 @@
 #### 漏洞POC数据库 (vulnerability-poc.html)
 
 **核心功能**：漏洞POC管理
-<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/5bc694a2-2c9a-46bc-8b25-ca0242e4d406" />
+<img width="1306" height="682" alt="image" src="https://github.com/user-attachments/assets/bafff563-c287-41ce-ba47-063faa6f13fc" />
 
 **实现方式**：
 - 漏洞POC列表管理
@@ -383,7 +382,7 @@
 - `/api/vulnerability/pocs/export` - 导出POC
 
 ### 17. 端口映射 (port-mapping.html)
-<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/0432df3e-7051-4ac9-a5c4-dde95b82b265" />
+<img width="1315" height="711" alt="image" src="https://github.com/user-attachments/assets/df7ead76-a3ae-4251-a4f2-c0c70e87b284" />
 
 **核心功能**：端口映射管理
 
@@ -400,7 +399,6 @@
 ### 18. 其他功能
 
 #### 游戏 (game.html)
-<img width="1914" height="906" alt="image" src="https://github.com/user-attachments/assets/68bf6a51-143e-4103-bf92-672d52b677a2" />
 
 **核心功能**：安全知识小游戏
 
