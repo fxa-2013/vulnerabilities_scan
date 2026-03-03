@@ -181,7 +181,7 @@
 - `/api/vulnerability/pocs` - 管理漏洞POC库
 
 ### 9. 网络管理 (network-management.html)
-<img width="1907" height="909" alt="image" src="https://github.com/user-attachments/assets/51656b3b-ea13-4d0f-9c1d-8d7a653d0516" />
+<img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/b866e21a-5d1e-4ca6-b164-81b7fd49d6fd" />
 
 **核心功能**：网络接口、路由和DNS管理
 
@@ -197,10 +197,12 @@
 - `/api/network/dns` - 获取DNS配置信息
 
 ### 10. 任务管理
-<img width="1900" height="910" alt="image" src="https://github.com/user-attachments/assets/66e2986b-739b-4933-97b5-22a4e1c1eb49" />
-<img width="1913" height="912" alt="image" src="https://github.com/user-attachments/assets/eebd01ad-7e54-4cb6-96dd-b4fac58c5579" />
+<img width="1312" height="902" alt="image" src="https://github.com/user-attachments/assets/cb9f5f46-0f31-4098-9bcc-9b9f2425dbdf" />
+<img width="1324" height="913" alt="image" src="https://github.com/user-attachments/assets/28ce5240-e01c-408e-898b-6764ffdee347" />
+
 
 #### 任务列表 (task-list.html)
+<img width="1310" height="199" alt="image" src="https://github.com/user-attachments/assets/9630fab9-a1ec-4011-bab5-c2633ac7fd02" />
 
 **核心功能**：任务状态查看和管理
 
@@ -216,7 +218,6 @@
 - `/api/tasks/{id}/cancel` - 取消任务
 
 #### 任务创建 (task-create.html)
-<img width="1913" height="912" alt="image" src="https://github.com/user-attachments/assets/44262fe2-c42a-421f-b707-008129435a66" />
 
 **核心功能**：创建新的扫描任务
 
@@ -231,7 +232,8 @@
 - `/api/task-templates` - 获取任务模板
 
 ### 11. 系统维护 (system-maintenance.html)
-<img width="1909" height="906" alt="image" src="https://github.com/user-attachments/assets/cc608add-d70f-4f36-807d-1b0161dafba1" />
+<img width="1331" height="347" alt="image" src="https://github.com/user-attachments/assets/0c13810e-17ac-42e6-a130-e9864c091345" />
+<img width="1302" height="576" alt="image" src="https://github.com/user-attachments/assets/9086e918-43bc-4fc1-9ce5-dd0ef27e0843" />
 
 **核心功能**：系统配置和维护
 
@@ -248,7 +250,8 @@
 - `/api/system/backup` - 系统备份和恢复
 
 ### 12. 用户管理 (user-management.html)
-<img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/cc3f32a1-e7cf-4628-80c4-65566b121242" />
+<img width="1323" height="410" alt="image" src="https://github.com/user-attachments/assets/f74b6bcf-6098-4518-bf37-f45c7cbd1227" />
+<img width="1382" height="912" alt="image" src="https://github.com/user-attachments/assets/45e7ae13-6edc-4f19-b450-f36c66f08abe" />
 
 **核心功能**：用户和权限管理
 
