@@ -68,7 +68,7 @@
 - `/api/tasks` - 获取任务统计信息
 
 ### 2. 资产管理 (asset-management.html)
-<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/8d0da4bd-6c54-448b-a485-1bbef44f50bc" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/8c6fd8f1-140f-4335-9f78-fa1f19a798d4" />
 
 **核心功能**：资产分组管理、资产信息管理
 
@@ -85,7 +85,7 @@
 ### 3. 主机探测 (host-detection.html)
 
 **核心功能**：网络主机存活探测
-<img width="1917" height="908" alt="image" src="https://github.com/user-attachments/assets/094fb806-bd98-4f12-b512-005b4691ba7f" />
+<img width="1321" height="848" alt="image" src="https://github.com/user-attachments/assets/99ae3ca8-ff1c-4c62-8389-311b66c7dd33" />
 
 **实现方式**：
 - 支持多种探测方式（ICMP、TCP SYN、ARP等）
@@ -99,7 +99,7 @@
 - `/api/host-discovery/results` - 获取探测结果
 
 ### 4. 端口检测 (port-detection.html)
-<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/b9025c97-c4da-4bb9-b585-851d0863627f" />
+<img width="1474" height="888" alt="image" src="https://github.com/user-attachments/assets/b810367e-f560-4415-a48a-55929d69fa92" />
 
 **核心功能**：端口扫描和服务识别
 
@@ -115,7 +115,7 @@
 - `/api/port-scan/results` - 获取扫描结果
 
 ### 5. 服务指纹 (service-fingerprint.html)
-<img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/d1653dd8-df98-4dde-adea-a0fd2fee7f0b" />
+<img width="1433" height="905" alt="image" src="https://github.com/user-attachments/assets/22d3c7bd-1f3e-4b21-ac32-d79fdbc247a5" />
 
 **核心功能**：服务识别和版本检测
 
@@ -131,7 +131,7 @@
 - `/api/service-fingerprint/rules` - 管理服务指纹规则
 
 ### 6. 弱密码检测 (weak-password.html)
-<img width="1906" height="914" alt="image" src="https://github.com/user-attachments/assets/b4f51606-3f3e-44c3-a26b-2192ba7f055d" />
+<img width="1884" height="906" alt="image" src="https://github.com/user-attachments/assets/ddaf5406-5f7a-4ea4-b420-b1acfc0ae374" />
 
 **核心功能**：弱密码扫描和检测
 
@@ -147,7 +147,7 @@
 - `/api/weak-password/results` - 获取扫描结果
 
 ### 7. 操作系统扫描 (os_scan.html)
-<img width="1902" height="906" alt="image" src="https://github.com/user-attachments/assets/a55705e3-049b-4b33-96dd-53f763d3b67d" />
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/e3b51596-be57-4386-a03c-27bf672ecc6a" />
 
 **核心功能**：操作系统类型和版本识别
 
@@ -163,7 +163,7 @@
 - `/api/os-detection/fingerprints` - 管理操作系统指纹规则
 
 ### 8. 漏洞扫描 (vulnerability-scan.html)
-<img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/16e525d2-0514-4587-9c9c-e76576a854dc" />
+<img width="1885" height="909" alt="image" src="https://github.com/user-attachments/assets/198bf62e-70ab-4627-a838-d6d59b8588be" />
 
 **核心功能**：漏洞检测和评估
 
