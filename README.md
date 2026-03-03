@@ -1,11 +1,9 @@
 # 梦鉴 - 网络安全评估系统
-<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/0444c1a4-034b-4778-afe9-9d64fc905e63" />
+<img width="1894" height="908" alt="image" src="https://github.com/user-attachments/assets/4fa2caae-9b76-4790-ab91-8fba2d0e1233" />
 
 ## 项目简介
-<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/2f705af2-99b3-4ef8-9445-4256fb86a980" />
 
 梦鉴是一款功能全面的网络安全评估系统，旨在帮助安全专业人员快速发现和评估网络中的安全隐患。系统采用前后端分离架构，前端使用HTML5、CSS3和JavaScript构建，后端使用Python Flask框架开发。
-<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/db1884f5-9178-4008-8329-f9edb278dd51" />
 
 ## 系统架构
 
