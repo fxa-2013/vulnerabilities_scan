@@ -69,7 +69,6 @@
 - `/api/tasks` - 获取任务统计信息
 
 ### 2. 资产管理 (asset-management.html)
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/8c6fd8f1-140f-4335-9f78-fa1f19a798d4" />
 
 **核心功能**：资产分组管理、资产信息管理
 
@@ -86,7 +85,6 @@
 ### 3. 主机探测 (host-detection.html)
 
 **核心功能**：网络主机存活探测
-<img width="1321" height="848" alt="image" src="https://github.com/user-attachments/assets/99ae3ca8-ff1c-4c62-8389-311b66c7dd33" />
 
 **实现方式**：
 - 支持多种探测方式（ICMP、TCP SYN、ARP等）
@@ -100,7 +98,6 @@
 - `/api/host-discovery/results` - 获取探测结果
 
 ### 4. 端口检测 (port-detection.html)
-<img width="1474" height="888" alt="image" src="https://github.com/user-attachments/assets/b810367e-f560-4415-a48a-55929d69fa92" />
 
 **核心功能**：端口扫描和服务识别
 
@@ -116,7 +113,6 @@
 - `/api/port-scan/results` - 获取扫描结果
 
 ### 5. 服务指纹 (service-fingerprint.html)
-<img width="1433" height="905" alt="image" src="https://github.com/user-attachments/assets/22d3c7bd-1f3e-4b21-ac32-d79fdbc247a5" />
 
 **核心功能**：服务识别和版本检测
 
@@ -132,7 +128,6 @@
 - `/api/service-fingerprint/rules` - 管理服务指纹规则
 
 ### 6. 弱密码检测 (weak-password.html)
-<img width="1884" height="906" alt="image" src="https://github.com/user-attachments/assets/ddaf5406-5f7a-4ea4-b420-b1acfc0ae374" />
 
 **核心功能**：弱密码扫描和检测
 
@@ -148,7 +143,6 @@
 - `/api/weak-password/results` - 获取扫描结果
 
 ### 7. 操作系统扫描 (os_scan.html)
-<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/e3b51596-be57-4386-a03c-27bf672ecc6a" />
 
 **核心功能**：操作系统类型和版本识别
 
@@ -164,7 +158,6 @@
 - `/api/os-detection/fingerprints` - 管理操作系统指纹规则
 
 ### 8. 漏洞扫描 (vulnerability-scan.html)
-<img width="1885" height="909" alt="image" src="https://github.com/user-attachments/assets/198bf62e-70ab-4627-a838-d6d59b8588be" />
 
 **核心功能**：漏洞检测和评估
 
@@ -182,7 +175,6 @@
 - `/api/vulnerability/pocs` - 管理漏洞POC库
 
 ### 9. 网络管理 (network-management.html)
-<img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/b866e21a-5d1e-4ca6-b164-81b7fd49d6fd" />
 
 **核心功能**：网络接口、路由和DNS管理
 
@@ -198,12 +190,9 @@
 - `/api/network/dns` - 获取DNS配置信息
 
 ### 10. 任务管理
-<img width="1312" height="902" alt="image" src="https://github.com/user-attachments/assets/cb9f5f46-0f31-4098-9bcc-9b9f2425dbdf" />
-<img width="1324" height="913" alt="image" src="https://github.com/user-attachments/assets/28ce5240-e01c-408e-898b-6764ffdee347" />
 
 
 #### 任务列表 (task-list.html)
-<img width="1310" height="199" alt="image" src="https://github.com/user-attachments/assets/9630fab9-a1ec-4011-bab5-c2633ac7fd02" />
 
 **核心功能**：任务状态查看和管理
 
@@ -233,8 +222,6 @@
 - `/api/task-templates` - 获取任务模板
 
 ### 11. 系统维护 (system-maintenance.html)
-<img width="1331" height="347" alt="image" src="https://github.com/user-attachments/assets/0c13810e-17ac-42e6-a130-e9864c091345" />
-<img width="1302" height="576" alt="image" src="https://github.com/user-attachments/assets/9086e918-43bc-4fc1-9ce5-dd0ef27e0843" />
 
 **核心功能**：系统配置和维护
 
@@ -243,7 +230,6 @@
 - 磁盘和内存管理
 - 系统更新和备份
 - 系统日志查看
-<img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/19e85bee-d226-4ba5-989e-9fe51a775cae" />
 
 **关键API**：
 - `/api/system/services` - 管理系统服务
@@ -251,8 +237,6 @@
 - `/api/system/backup` - 系统备份和恢复
 
 ### 12. 用户管理 (user-management.html)
-<img width="1323" height="410" alt="image" src="https://github.com/user-attachments/assets/f74b6bcf-6098-4518-bf37-f45c7cbd1227" />
-<img width="1382" height="912" alt="image" src="https://github.com/user-attachments/assets/45e7ae13-6edc-4f19-b450-f36c66f08abe" />
 
 **核心功能**：用户和权限管理
 
@@ -261,7 +245,6 @@
 - 角色和权限配置
 - 用户登录和认证管理
 - 操作审计日志
-<img width="1902" height="916" alt="image" src="https://github.com/user-attachments/assets/cd8d163d-ab9a-43b2-8db4-855bef5c8adc" />
 
 **关键API**：
 - `/api/users` - 用户管理
@@ -269,7 +252,6 @@
 - `/api/permissions` - 权限管理
 
 ### 13. 日志中心 (log-center.html)
-<img width="1433" height="877" alt="image" src="https://github.com/user-attachments/assets/25e1f25a-374b-4ecc-ac61-79a5db470601" />
 
 **核心功能**：系统日志管理和分析
 
@@ -285,7 +267,6 @@
 - `/api/logs/export` - 导出日志
 
 ### 14. 基本设置 (basic-settings.html)
-<img width="1280" height="783" alt="image" src="https://github.com/user-attachments/assets/9163628c-3fb6-43e1-9a39-fa5e9025c512" />
 
 **核心功能**：系统基本配置
 
@@ -301,7 +282,6 @@
 - `/api/settings/security` - 安全设置
 
 ### 15. 规则更新 (rule-update.html)
-<img width="1423" height="902" alt="image" src="https://github.com/user-attachments/assets/9d9720bb-05ee-4662-9ba3-b60fe317bcd7" />
 
 **核心功能**：安全规则更新和管理
 
@@ -319,7 +299,6 @@
 ### 16. 数据库管理
 
 #### 弱密码数据库 (weak-password-db.html)
-<img width="1335" height="704" alt="image" src="https://github.com/user-attachments/assets/9a021aea-6cdf-4751-84b9-2abda7960449" />
 
 **核心功能**：弱密码字典管理
 
@@ -335,7 +314,6 @@
 - `/api/weak-password/db/export` - 导出弱密码字典
 
 #### 操作系统指纹数据库 (os-fingerprint-db.html)
-<img width="1310" height="755" alt="image" src="https://github.com/user-attachments/assets/d2677c82-3c55-44ae-841a-c236cce4805b" />
 
 **核心功能**：操作系统指纹规则管理
 
@@ -351,7 +329,6 @@
 - `/api/os-fingerprints/export` - 导出指纹规则
 
 #### 服务指纹数据库 (service-fingerprint-db.html)
-<img width="1317" height="735" alt="image" src="https://github.com/user-attachments/assets/9bfa27d8-3337-49a5-bdbe-01089b902565" />
 
 **核心功能**：服务指纹规则管理
 
@@ -369,7 +346,6 @@
 #### 漏洞POC数据库 (vulnerability-poc.html)
 
 **核心功能**：漏洞POC管理
-<img width="1306" height="682" alt="image" src="https://github.com/user-attachments/assets/bafff563-c287-41ce-ba47-063faa6f13fc" />
 
 **实现方式**：
 - 漏洞POC列表管理
@@ -383,7 +359,6 @@
 - `/api/vulnerability/pocs/export` - 导出POC
 
 ### 17. 端口映射 (port-mapping.html)
-<img width="1315" height="711" alt="image" src="https://github.com/user-attachments/assets/df7ead76-a3ae-4251-a4f2-c0c70e87b284" />
 
 **核心功能**：端口映射管理
 
